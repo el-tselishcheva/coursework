@@ -1,0 +1,113 @@
+.main-content {
+    margin: 30px 0px;
+}
+
+.auth.container h2 {
+    margin: 30px 0px;
+}
+
+.auth-btn.d-flex.justify-content-center {
+    margin: 30px 0px;
+}
+
+.auth-txt.text-center.text-muted {
+    margin: 0px 0px;
+}
+
+.auth-redirect {
+    text-decoration: none;
+}
+
+.pfp-img.rounded-circle {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.main-content .container h2 {
+    margin: 30px 0px;
+    padding-left: 30px;
+}
+
+/* .card-body .btn-link {
+    text-decoration: none;
+    text-align: start;
+    color: black;
+} */
+
+.user-review.btn.btn-link {
+    color: black;
+}
+
+.user-review.btn.btn-link:hover {
+    color: #0a58ca
+}
+
+.review-to-book-link .btn-link {
+    color: #0d6efd;
+}
+
+.stars {
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.star {
+    color: #cecece;
+    font-size: 16px;
+}
+
+.selected, .star:active {
+    color: #fbc634;
+}
+
+.card-body .book-title {
+    margin-bottom: 30px;
+}
+
+.card-body .book-author {
+    padding-left: 16px;
+}
+
+.main-content .container .author {
+    margin-top: 30px;
+}
+
+.main-content .container .author .author-info p {
+    padding: 0px 30px;
+    text-align: justify;
+}
+
+.main-content .container .author-books {
+    padding: 0px;
+}
+
+.main-content .container .book {
+    margin-top: 30px;
+}
+
+.book-info p {
+    padding: 0px 30px;
+    text-align: justify;
+}
+
+.book-info .book-author {
+    padding-left: 30px;
+}
+
+.book-info .book-author .btn-link {
+    padding-left: 0px;
+    text-decoration: none;
+}
+
+.main-content .container .book .book-info .row {
+    padding-left: 30px;
+    margin: 30px 0px;
+}
+
+.main-content .container .book .book-info .row .col {
+    padding-left: 0px;
+}
